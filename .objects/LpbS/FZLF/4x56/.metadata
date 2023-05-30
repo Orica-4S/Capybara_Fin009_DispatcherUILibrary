@@ -1,0 +1,15 @@
+﻿{
+  "Id": "4x56nJiTukamVfANw4OHzw",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/4x56nJiTukamVfANw4OHzw",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/FZLFyZhYB0yEng2TiOcndg",
+  "Name": "Selection of Bank Statement Items",
+  "Type": "Screen",
+  "Created": "2023-03-09T05:45:27.2674274Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:45:27.2674274Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

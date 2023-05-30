@@ -1,0 +1,14 @@
+﻿{
+  "Id": "tjp4jPaG5UmyadM9vLDulA",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/tjp4jPaG5UmyadM9vLDulA",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/eeLQD8tLDE2N5g73hAn5Kg",
+  "Name": "Button - Toggle full screen",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-03-09T05:45:26.8942511Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:45:26.8942511Z"
+}

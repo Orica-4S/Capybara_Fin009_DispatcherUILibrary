@@ -1,0 +1,16 @@
+﻿{
+  "Id": "bHnwrrWlM0anujc1rDCGVg",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/bHnwrrWlM0anujc1rDCGVg",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/r_nyaqcVnk-ehRkT3VH7jQ",
+  "Name": "Field - Open Only Transaction Amount",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-09T05:45:27.6212671Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:45:27.6212671Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

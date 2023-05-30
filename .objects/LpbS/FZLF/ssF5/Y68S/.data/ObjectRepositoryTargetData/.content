@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MSGYpyLvy0ODSkCkjBCmjw" Reference="LG4KtCOhBk2huXB0kJPcoA/Y68ScHBsZUOOyTcQMChfvA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://orica.sharepoint.com/teams/collab_000792/Shared%20Documents/Forms/AllItems.aspx?ga=1&amp;id=%2Fteams%2Fcollab%5F000792%2FShared%20Documents%2FCAPYBARA%20Remit%20Details&amp;viewid=4b1093b6%2D6a24%2D4ae1%2D81e4%2D11fb0a34b1ea" DesignTimeRectangle="188, 419, 79, 20" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Fin009_Input'" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='BUTTON' aaname='{0}' /&gt;&quot;, strFolderName)]" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' aaname='Fin009_Input' type='button' class='ms-Link root_c37e4642 nameField_dd1019e7 clickable_dd1019e7 overflow_7939f24e pre_7939f24e' check:text='Fin009_Input' /&gt;" Guid="204d3565-612b-4bf7-a016-c19c9a986a83" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFMAAAAYCAYAAACGLcGvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGsSURBVGhD7ZXbYcIwDEU7UulQkEGAWRIGCUwBrEA7gGvLlWX50aRGpU2rj/uBJVtXJ7J5enu9GZWMFKagFKagFKagFKagFKagFKagGMzT7tm8rLj2Rxu79KZbrc3hQrlTug5rOmfTmyuLj2af1ojizMduZLGiwN/WnEqxByqD2Q1nltCk49aCoOYAToByNodNVCf5UDx3pqeHw3TDkA/Xt8DMzombLTRO+QWTc0AtCybfDFfYTo/Lx+tI+0qF/DS664x7KWblJhmegtLesnGmBObn/ijOnqLIU+6R/PtadK7zjXntMO1B4a2Da43xe2B6D1ljLTCr/ihOvfKnJ/cYwYTf5Q888QeEBgswq8Xug4m56KEb+qJxpspkUg6HMeVBDObsyfwyTL9WbSRdQ815DyVgujN+H8y0sFXcLJtCr3rdSuOp/u5kWjljUXPwfIR8nxvqAIjc2GQsVgtMdq7rr+7f5/8UTMz5ePd4rpM37+PcFNs3B6RT02T2sIa10r5hAEJsrPdnpxnXGMz/ohy2jJYDE6aPpiWoAYrCFJTCXIAUpqAUpqAUpphu5h3v4BpAqO+RNwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='{}' title='GBS Acounts Receivable*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ddbac7c491f07aaceb9a34783f5ff504.png" xmlns="">0zG_npii5WEqIFtf9DLGOMg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Fin009_Input" Name="strFolderName" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

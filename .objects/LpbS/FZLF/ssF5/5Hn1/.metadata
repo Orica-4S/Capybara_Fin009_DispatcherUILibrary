@@ -1,0 +1,14 @@
+﻿{
+  "Id": "5Hn1TwCqiEuRbt80X8ZM9Q",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/5Hn1TwCqiEuRbt80X8ZM9Q",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/ssF5YGET1US_qJ-pu1HLYQ",
+  "Name": "SelectItem - Download",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-09T05:45:27.8491884Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:45:27.8491884Z"
+}

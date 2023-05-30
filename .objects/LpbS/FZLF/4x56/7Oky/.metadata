@@ -1,0 +1,14 @@
+﻿{
+  "Id": "7OkyJxAXLUS0_WHvbI7ewg",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/7OkyJxAXLUS0_WHvbI7ewg",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/4x56nJiTukamVfANw4OHzw",
+  "Name": "Input - Bank Accounting Status",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-03-09T05:45:27.4202785Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:45:27.4202785Z"
+}

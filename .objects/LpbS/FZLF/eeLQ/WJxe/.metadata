@@ -1,0 +1,14 @@
+﻿{
+  "Id": "WJxekgsX9EiMkgA91mFUKA",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/WJxekgsX9EiMkgA91mFUKA",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/eeLQD8tLDE2N5g73hAn5Kg",
+  "Name": "Subledger Accounting Status",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2023-03-09T05:45:27.0798699Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:45:27.0798699Z"
+}

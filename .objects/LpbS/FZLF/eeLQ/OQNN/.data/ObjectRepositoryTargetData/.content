@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CrrgzOCIi06SSg1qRPO19Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="755, 170, 68, 32" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'push button OK'" FullSelectorArgument="&lt;ctrl name='OK' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='OK' role='push button' automationid='' /&gt;" Guid="9dee316f-1947-47e1-8d55-7904a0f410ed" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEgAAAAkCAYAAAAq23xmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF3SURBVGhD7Zo7SgNRGEazG5fiQtxEtiC4ABtLC8HGysbCRrALglhokyagCBpfRHxd+a6cySjzx8o/hnwHDsncuTDkcOdOiukVMxMH+oUm0M7JXVnZOC+9/ulSqwZqAU0gx5mqFtAE6pq4zIIDBYIDBYIDBYIDBYIDBYIDBYIDBYIDBcJcAh1cPJbx5L1e9/n1ox63zwvGVreGde7w9uXbnL8W0gMdDZ+aKOuH12V7MK7Hg9GkmSMIpHGdVyjOZwipgdZ2R/VaitIe3zy+qeP9/ct6LBSIcYVsz88QUgPtnd2H1xI6z3dWDmPZQmogrYroWoLbSiiOyL61EP7tCtJeNY/NGSE1kPYYEe1B2qN0LLSamM/KyhRSA0n2FkVqP8W0YpgjiMJtmb1RQ3ogqR/N/yB9/lwhoj129fCW/qiHuQRaBMGBAsGBAsGBAsGBAsGBAsGBAsGBAsGBAsGBAqEJ5JcXpna+vODXX75Ug87XX0w3DjSTUj4BSHV4Rv4WUQkAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin*' title='*Bank Statement*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e9d115a3a7747238ab540aa2c8e0e3a8.png" xmlns="">0Eby8xH-mkkSTrdxFIY_3MA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "oCp-_wVxw0KHa0Ul3A1ocg",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/oCp-_wVxw0KHa0Ul3A1ocg",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/4x56nJiTukamVfANw4OHzw",
+  "Name": "Input - Amount",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-03-09T05:45:27.3916272Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:45:27.3916272Z"
+}

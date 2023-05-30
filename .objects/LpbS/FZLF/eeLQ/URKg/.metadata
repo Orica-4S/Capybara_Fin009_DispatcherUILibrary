@@ -1,0 +1,16 @@
+﻿{
+  "Id": "URKgzWHBNUOg_rcLCtY-vg",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/URKgzWHBNUOg_rcLCtY-vg",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/eeLQD8tLDE2N5g73hAn5Kg",
+  "Name": "Continue",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-03-23T10:45:19.8600305Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-23T10:48:34.2688026Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

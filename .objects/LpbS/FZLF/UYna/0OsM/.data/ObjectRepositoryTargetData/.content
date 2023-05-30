@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1JJNM_Y2m0Own0F-cbaHew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-qa.orica.net/fiori#Shell-home" DesignTimeRectangle="119, 83, 81, 36" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Home'" FullSelectorArgument="&lt;webctrl id='shellAppTitle' innertext='Home' /&gt;" FuzzySelectorArgument="&lt;webctrl id='shellAppTitle' innertext='Home' tag='H1' type='' class='sapUshellHeadTitle sapUshellAppTitleClickable' aaname='' check:text='Home' /&gt;" Guid="6f9d7d5e-14e2-489c-879e-8fea805ca5e0" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*Home*' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0a9cecbe782e3b2c39b775dd0ec0954b.png" xmlns="">0zYLVyCVW3keL212AaaqyDg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

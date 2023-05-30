@@ -1,0 +1,15 @@
+﻿{
+  "Id": "eeLQD8tLDE2N5g73hAn5Kg",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/eeLQD8tLDE2N5g73hAn5Kg",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/FZLFyZhYB0yEng2TiOcndg",
+  "Name": "Edit Bank Statement",
+  "Type": "Screen",
+  "Created": "2023-03-09T05:45:26.8265522Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:45:26.8265522Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

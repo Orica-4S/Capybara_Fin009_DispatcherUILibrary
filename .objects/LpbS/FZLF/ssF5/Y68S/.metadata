@@ -1,0 +1,14 @@
+﻿{
+  "Id": "Y68ScHBsZUOOyTcQMChfvA",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/Y68ScHBsZUOOyTcQMChfvA",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/ssF5YGET1US_qJ-pu1HLYQ",
+  "Name": "Button - Fin009_Input",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-03-09T05:45:27.7523127Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:45:27.7523127Z"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "W75DB3kXnUqIbrqQIfCKQg",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/W75DB3kXnUqIbrqQIfCKQg",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/MQQua9sz3UuVneQB_Z3vsQ",
+  "Name": "Button - Continue",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-03-14T08:58:35.2755164Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-14T09:00:27.0995664Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "KFcam3IJLECmaqkT742vKw",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/KFcam3IJLECmaqkT742vKw",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/7OkyJxAXLUS0_WHvbI7ewg",
+  "Name": "Field - All line items",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-03-09T05:45:27.4561052Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-09T05:45:27.4561052Z"
+}

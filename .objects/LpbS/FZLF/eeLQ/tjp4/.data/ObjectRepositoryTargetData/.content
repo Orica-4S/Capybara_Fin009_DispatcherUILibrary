@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KVW5Un85F06cY-J-DIKUmg" Reference="ZsGeb0j2wEKo0O09iuStJQ/tjp4jPaG5UmyadM9vLDulA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="329, 203, 27, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'push button'" FullSelectorArgument="&lt;ctrl name='Toggle full screen' role='push button' idx='1' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Toggle full screen' role='push button' automationid='' /&gt;" Guid="934309b2-ddb8-4343-b7f1-b16d2a1945a0" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB8AAAAeCAYAAADU8sWcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEUSURBVEhL1ZY/DoIwFIc9lBdy5QTcwDg5cQpCwsYOi4MrrCbEiQswPvPFgKVQAW35M3yJtOX39TVP0kNd17IW25EXRSFJkkgYhlYhk2zVBa2cyTRNpaqq3qJ/IZPsPM87462c3bkQN5CNQx1r5RyPOuEC3bF/+f16lsttfGy2/BkHcjydB2nCdRHPXly2zw2z5UMV6KhrTGJwKueUTGJwJvf872JwIjf1hf6eE/lU9iX/BdOG9yMnpN9IgUSP7jodB5WXEvF38sd7wLL8LaZiU7CKRTniT9iC8q4Y1GB+93sChvtilpxw/ZM5pXITMyu3yzblq14guTpnWeZkA2SSbbw6A5PsjuOxCZm6GDrypVlRXssLXsNsoEo2DdcAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin*' title='*Bank Statement*' /&gt;" SearchSteps="Selector" SelectionStrategy="AA" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6e5a625832bfbb051b550eaca79c7e9c.png" xmlns="">0sy5W_X9QqkO89A_a539cew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
