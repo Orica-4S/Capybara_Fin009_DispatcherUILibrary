@@ -1,0 +1,16 @@
+﻿{
+  "Id": "XlK3WW6BkEWRPwRdzfIYQg",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/XlK3WW6BkEWRPwRdzfIYQg",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/UYnaRUhYfE2NMBkTOE2j6w",
+  "Name": "Button - Bank Statement Postprocessing",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-09-11T02:22:52.1657071Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-11T02:24:37.116343Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
