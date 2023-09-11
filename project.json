@@ -3,13 +3,13 @@
   "description": "UI Library for Capybara Fin009 Dispatcher",
   "main": "NewActivity.xaml",
   "dependencies": {
-    "UiPath.UIAutomation.Activities": "[22.10.3]"
+    "UiPath.UIAutomation.Activities": "[22.10.7]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.10.5.0",
-  "projectVersion": "1.0.9",
+  "projectVersion": "1.0.15",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
