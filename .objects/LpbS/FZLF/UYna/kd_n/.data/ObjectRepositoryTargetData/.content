@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EsMRj6x3J0uBE7GhdOIAxg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://launchpad-dt.orica.net/fiori#BankStatementPP-display" DesignTimeRectangle="40, 83, 36, 36" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'unchecked'" FullSelectorArgument="&lt;webctrl id='backBtn' aria-label='Back' aria-role='button' /&gt;" FuzzySelectorArgument="&lt;webctrl id='backBtn' aria-label='Back' aria-role='button' tag='A' type='' class='sapUshellShellHeadItm' aaname='' check:text='unchecked' /&gt;" Guid="593e27b0-73bd-41fb-ac22-d72b75fc7df6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Bank Statement Postprocessing' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e7f4ba05fcb19acb63448a4981ed1dd1.png" xmlns="">0xyykqTnbDkeGuJCzGVXx9Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
