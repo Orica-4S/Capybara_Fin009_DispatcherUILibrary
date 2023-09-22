@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Uk5eIt1tSUi5qszqDuQkgg",
+  "Reference": "ZsGeb0j2wEKo0O09iuStJQ/Uk5eIt1tSUi5qszqDuQkgg",
+  "ParentRef": "ZsGeb0j2wEKo0O09iuStJQ/eeLQD8tLDE2N5g73hAn5Kg",
+  "Name": "ED1 Extract Data Table",
+  "Type": "Element",
+  "TaxonomyType": "Table",
+  "Created": "2023-09-22T09:22:46.3166432Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-09-22T09:23:33.5769096Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
